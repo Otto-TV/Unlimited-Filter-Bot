@@ -15,20 +15,20 @@ See <i>/help</i> for commands and more details.</b>
 
 <b>Basic Commands;</b>
 
-/start - Check if I'm alive!
-/help - Command help
-/about - Something about me!
+/start - Check if I'm alive! 🙃
+/help - Command help ✌️
+/about - Something about me! 😎
 
 
 <b>Filter Commands;</b>
 
-<code>/add name reply</code>  -  Add filter for name
+<code>/add name reply</code>  -  Add filter for name 🔗
 
-<code>/del name</code>  -  Delete filter
+<code>/del name</code>  -  Delete filter ♻️
 
-<code>/delall</code>  -  Delete entire filters (Group Owner Only!)
+<code>/delall</code>  -  Delete entire filters (Group Owner Only!) 💔
 
-<code>/viewfilters</code>  -  List all filters in chat
+<code>/viewfilters</code>  -  List all filters in chat 📝
 
 
 <b>Connection Commands;</b>
@@ -41,20 +41,20 @@ See <i>/help</i> for commands and more details.</b>
 
 <b>Extras;</b>
 
-/status  -  Shows current status of your bot (Auth User Only)
+/status  -  Shows current status of your bot (Piro Users Only 😎)
 
-/id  -  Shows ID information
+/id  -  Shows ID information 👨‍💻
 
-<code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
+<code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!📖
 
 
-<b>© @TroJanzHEX</b>
+<b>© @StreamTVBot</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : Filter Stream TV Bot</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+⭕️<b>Creater :</b> @AnonymousOwner    
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
